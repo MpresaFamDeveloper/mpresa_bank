@@ -1,0 +1,26 @@
+[
+    {
+        "brand": "KenGen Property",
+        "Date" : "12-01-08",
+        "status": false,
+        "due": "1280.00",
+        "more": "Pay before",
+        "img": "images/logo5.jpg"
+    },
+    {
+        "brand": "Real-Estate Property",
+        "Date" : "11-11-08",
+        "status": false,
+        "due": "4280.00",
+        "more": "you must Pay now",
+        "img": "images/logo6.jpg"
+    },
+    {
+        "brand": "MpresaFam Property",
+        "Date" : "15-01-09",
+        "status": false,
+        "due": "1380.00",
+        "more": "Due in 3 days",
+        "img": "images/logo7.jpg"
+    }
+]
